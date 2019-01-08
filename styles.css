@@ -1,0 +1,106 @@
+body {
+    font-family: 'Roboto Slab', serif;
+    background: lightgrey;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}
+
+.boxes {
+    display: block;
+    width: 20%;
+    margin: 1em auto;
+    padding: 1em;
+    border: solid black;
+    border-radius: 2em;
+}
+
+.readme-wrapper :hover {
+    font-weight: bold;
+    color: yellow;
+}
+
+span {
+    color: blue;
+    font-weight: 700;
+}
+
+#box1 {
+    background: white;
+}
+
+#box2 {
+    background: whitesmoke;
+    
+}
+
+#box3 {
+    background: wheat;
+}
+
+#box4 {
+    background: grey;
+}
+
+.div-image {
+    position: relative;
+    right: 4em;
+    bottom: 8.3em;
+    width: 75px;
+    height: 75px;
+    background: yellowgreen;
+}
+
+h1 {
+    color: purple;
+}
+
+.original {
+    color: aqua;
+}
+
+.additional {
+    color: brown;
+}
+
+#number1 {
+    color: orange;
+}
+
+#number2 {
+    color: yellow;
+}
+
+#number3 {
+    color: orangered
+}
+
+#number4 {
+    color: yellowgreen
+}
+
+#number5 {
+    color: palegreen;
+}
+
+ul {
+    color: chocolate;
+}
+
+.star {
+    color: lavender;
+}
+
+.wars {
+    color: purple;
+}
+
+.div-border {
+    border: 2px solid black;
+}
